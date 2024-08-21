@@ -1,0 +1,11 @@
+<!ELEMENT XD Media (mediaItem+)>
+<!ELEMENT mediaItem (title, genre, releaseDate, duration, director, cast, rating, language, platform)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT genre (#PCDATA)>
+<!ELEMENT releaseDate (#PCDATA)>
+<!ELEMENT duration (#PCDATA)>
+<!ELEMENT director (#PCDATA)>
+<!ELEMENT cast (#PCDATA)>
+<!ELEMENT rating (#PCDATA)>
+<!ELEMENT language (#PCDATA)>
+<!ELEMENT platform (#PCDATA)>

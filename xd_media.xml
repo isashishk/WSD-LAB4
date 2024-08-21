@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="xd_media.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<?xml-stylesheet href="xd_media.xsl" type="text/xsl"?>
+
+<mediaLibrary xmlns="http://www.example.com/media">
+    <mediaItem>
+        <title>Inception</title>
+        <genre>Sci-Fi</genre>
+        <releaseDate>2010-07-16</releaseDate>
+        <duration>148 </duration>
+        <director>Christopher Nolan</director>
+        <cast>Leonardo DiCaprio, Joseph Gordon-Levitt</cast>
+        <rating>8.8</rating>
+        <language>English</language>
+        <platform>Netflix</platform>
+    </mediaItem>
+
+    <mediaItem>
+        <title>The Matrix</title>
+        <genre>Action</genre>
+        <releaseDate>1999-03-31</releaseDate>
+        <duration>136 </duration>
+        <director>The Wachowskis</director>
+        <cast>Keanu Reeves, Laurence Fishburne</cast>
+        <rating>8.7</rating>
+        <language>English</language>
+        <platform>Hulu</platform>
+    </mediaItem>
+
+    <mediaItem>
+        <title>Interstellar</title>
+        <genre>Sci-Fi</genre>
+        <releaseDate>2014-11-07</releaseDate>
+        <duration>169 </duration>
+        <director>Christopher Nolan</director>
+        <cast>Matthew McConaughey, Anne Hathaway</cast>
+        <rating>8.6</rating>
+        <language>English</language>
+        <platform>Amazon Prime Video</platform>
+    </mediaItem>
+    
+    <mediaItem>
+        <title>The Dark Knight</title>
+        <genre>Action</genre>
+        <releaseDate>2008-07-18</releaseDate>
+        <duration>152 </duration>
+        <director>Christopher Nolan</director>
+        <cast>Christian Bale, Heath Ledger</cast>
+        <rating>9.0</rating>
+        <language>English</language>
+        <platform>HBO Max</platform>
+    </mediaItem>
+
+     <mediaItem>
+        <title>Avengers: Endgame</title>
+        <genre>Action</genre>
+        <director>Anthony Russo, Joe Russo</director>
+        <releaseDate>2019-04-26</releaseDate>
+        <rating>8.4</rating>
+        <duration>181</duration>
+        <language>English</language>
+        <cast>Robert Downey Jr., Chris Evans, Mark Ruffalo</cast>
+        <platform>XD, Disney+</platform>
+    </mediaItem>
+
+    <mediaItem>
+        <title>Parasite</title>
+        <genre>Thriller</genre>
+        <director>Bong Joon Ho</director>
+        <releaseDate>2019-05-30</releaseDate>
+        <rating>8.6</rating>
+        <duration>132</duration>
+        <language>Korean</language>
+        <cast>Kang-ho Song, Sun-kyun Lee, Yeo-jeong Jo</cast>
+        <platform>XD, Hulu</platform>
+    </mediaItem>
+
+    <mediaItem>
+        <title>The Godfather</title>
+        <genre>Crime</genre>
+        <director>Francis Ford Coppola</director>
+        <releaseDate>1972-03-24</releaseDate>
+        <rating>9.2</rating>
+        <duration>175</duration>
+        <language>English</language>
+        <cast>Marlon Brando, Al Pacino, James Caan</cast>
+        <platform>XD, Amazon Prime</platform>
+    </mediaItem>
+
+    <mediaItem>
+        <title>Fight Club</title>
+        <genre>Drama</genre>
+        <director>David Fincher</director>
+        <releaseDate>1999-10-15</releaseDate>
+        <rating>8.8</rating>
+        <duration>139</duration>
+        <language>English</language>
+        <cast>Brad Pitt, Edward Norton, Helena Bonham Carter</cast>
+        <platform>XD, Netflix</platform>
+    </mediaItem>
+
+    <mediaItem>
+        <title>Pulp Fiction</title>
+        <genre>Crime</genre>
+        <director>Quentin Tarantino</director>
+        <releaseDate>1994-10-14</releaseDate>
+        <rating>8.9</rating>
+        <duration>154</duration>
+        <language>English</language>
+        <cast>John Travolta, Uma Thurman, Samuel L. Jackson</cast>
+        <platform>XD, Hulu</platform>
+    </mediaItem>
+
+    <mediaItem>
+        <title>Forrest Gump</title>
+        <genre>Drama</genre>
+        <director>Robert Zemeckis</director>
+        <releaseDate>1994-07-06</releaseDate>
+        <rating>8.8</rating>
+        <duration>142</duration>
+        <language>English</language>
+        <cast>Tom Hanks, Robin Wright, Gary Sinise</cast>
+        <platform>XD, Amazon Prime</platform>
+    </mediaItem>
+
+    <mediaItem>
+        <title>Gladiator</title>
+        <genre>Action</genre>
+        <director>Ridley Scott</director>
+        <releaseDate>2000-05-05</releaseDate>
+        <rating>8.5</rating>
+        <duration>155</duration>
+        <language>English</language>
+        <cast>Russell Crowe, Joaquin Phoenix, Connie Nielsen</cast>
+        <platform>XD, Netflix</platform>
+    </mediaItem>
+
+    <mediaItem>
+        <title>The Shawshank Redemption</title>
+        <genre>Drama</genre>
+        <director>Frank Darabont</director>
+        <releaseDate>1994-09-23</releaseDate>
+        <rating>9.3</rating>
+        <duration>142</duration>
+        <language>English</language>
+        <cast>Tim Robbins, Morgan Freeman, Bob Gunton</cast>
+        <platform>XD, Hulu</platform>
+    </mediaItem>
+</mediaLibrary>
